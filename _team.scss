@@ -1,0 +1,24 @@
+.team{
+    .container{
+       
+                h2{
+                    font-family:'Cera Pro';
+                    font-weight:900;
+                }
+                // h3{
+                //     font-family:'Cera Pro';
+                //     font-weight: 700;
+                // }
+               .row{
+                   .col-md-6{
+                       img{
+                           border-radius: 0;
+                       }
+                       h3{
+                           font-family:'Cera Pro';
+                       }
+                   }
+               }
+           
+    }
+}

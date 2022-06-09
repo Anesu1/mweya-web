@@ -1,0 +1,14 @@
+.billboard{
+    @media(min-width:768px){
+        padding:5%;
+        padding-bottom:80px;
+    }
+    @media(min-width:1200px){
+        padding:5%;
+        padding-bottom:50px;
+    }
+    h1,p{
+        font-family: 'Cera Pro';
+        font-weight: 500;
+    }
+}
